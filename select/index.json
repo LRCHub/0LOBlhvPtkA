@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Penthouse - フライデーズハイ [Official Music Video]",
+  "base_artist": "Penthouse",
+  "createdAt": "2025-12-29T13:09:20.721382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Penthouse",
+      "artist": "Fünf Sterne deluxe feat. Samy Deluxe",
+      "has_synced": false,
+      "path": "select/01_Penthouse_Fünf_Sterne_deluxe_feat._Samy_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Penthouse",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/02_Penthouse_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Penthouse",
+      "artist": "Bones",
+      "has_synced": true,
+      "path": "select/03_Penthouse_Bones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Penthouse Cloud",
+      "artist": "The Internet",
+      "has_synced": true,
+      "path": "select/04_Penthouse_Cloud_The_Internet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Penthouse",
+      "artist": "That Kid",
+      "has_synced": true,
+      "path": "select/05_Penthouse_That_Kid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Penthouse Ad",
+      "artist": "Run-DMC",
+      "has_synced": false,
+      "path": "select/06_Penthouse_Ad_Run-DMC.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Penthouse Ad",
+      "artist": "Run‐D.M.C.",
+      "has_synced": false,
+      "path": "select/07_Penthouse_Ad_Run‐D.M.C..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Living in a Box (Penthouse Mix)",
+      "artist": "Living In a Box",
+      "has_synced": false,
+      "path": "select/08_Living_in_a_Box_(Penthouse_Mix)_Living_In_a_Box.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living in a Box (The Penthouse mix)",
+      "artist": "Living in a Box",
+      "has_synced": false,
+      "path": "select/09_Living_in_a_Box_(The_Penthouse_mix)_Living_in_a_Box.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Penthouse And Pavement - 2006 Digital Remaster",
+      "artist": "Heaven 17",
+      "has_synced": true,
+      "path": "select/10_Penthouse_And_Pavement_-_2006_Digital_Remaster_Heaven_17.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Penthouse And Pavement (2006 Digital Remaster)",
+      "artist": "Heaven 17",
+      "has_synced": true,
+      "path": "select/11_Penthouse_And_Pavement_(2006_Digital_Remaster)_Heaven_17.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Penthouse And Pavement - Original Demo",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/12_Penthouse_And_Pavement_-_Original_Demo_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Penthouse And Pavement",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/13_Penthouse_And_Pavement_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Penthouse Elevator",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/14_The_Penthouse_Elevator_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Interlude: Penthouse",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/15_Interlude__Penthouse_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Helena (Live Acoustic at 98.7FM Penthouse)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/16_Helena_(Live_Acoustic_at_98.7FM_Penthouse)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Summertime (Live Acoustic at 98.7FM Penthouse)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/17_Summertime_(Live_Acoustic_at_98.7FM_Penthouse)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Ghost of You (Live Acoustic at 98.7FM Penthouse)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/18_The_Ghost_of_You_(Live_Acoustic_at_98.7FM_Penthouse)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フライデーズハイ",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_フライデーズハイ_Penthouse.txt"
+    }
+  ]
+}
